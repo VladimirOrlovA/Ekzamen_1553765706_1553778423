@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+// Ekzamen_1553765706_1553778423 //
+
 void fillArray(int **arr, int n, int m)
 {
 	for (int i = 0; i < n; i++)
